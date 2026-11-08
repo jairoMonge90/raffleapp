@@ -1,0 +1,6 @@
+{
+  "name": "RaffleApp",
+  "description": "Aplicación PWA para rifas y sorteos de números con gestión de usuarios, asignaciones aleatorias y sorteo interactivo en vivo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
